@@ -19,6 +19,6 @@ Add the dependency
 
 ```groovy  
 dependencies {
-	androidTestCompile 'com.github.BartoszJarocki:RxCursor:1.0.4'
+	compile 'com.github.BartoszJarocki:RxCursor:1.0.4'
 }
 ```
